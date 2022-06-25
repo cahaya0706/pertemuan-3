@@ -1,0 +1,15 @@
+{
+  "name": "pertemuan-3",
+  "version": "1.0.0",
+  "description": "Belajar React",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript-test-runner"
+  },
+  "author": "Cahaya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type" : "module"
+}
